@@ -1,0 +1,112 @@
+Melvin Kurian
+Assign 4
+
+
+10 Sorted:
+
+InsertionSort 
+(9, '<-- Comparison')
+
+MergeSort 
+(15, '<-- Comparison')
+
+QuickSort 
+(45, '<-- Comparison')
+
+-----------------------------
+10 Random: 
+
+InsertionSort 
+(30, '<-- Comparison')
+
+MergeSort 
+(23, '<-- Comparison')
+
+QuickSort 
+(22, '<-- Comparison')
+
+-----------------------------
+10 Reversed: 
+
+InsertionSort 
+(45, '<-- Comparison')
+
+MergeSort 
+(19, '<-- Comparison')
+
+QuickSort 
+(45, '<-- Comparison')
+
+-----------------------------
+100 Sorted:
+InsertionSort 
+(99, '<-- Comparison')
+
+MergeSort 
+(316, '<-- Comparison')
+
+QuickSort 
+(4950, '<-- Comparison')
+
+-----------------------------
+100 Random:
+
+InsertionSort 
+(2509, '<-- Comparison')
+
+MergeSort 
+(547, '<-- Comparison')
+
+QuickSort 
+(706, '<-- Comparison')
+
+-----------------------------
+100 Reversed: 
+
+InsertionSort 
+(4950, '<-- Comparison')
+
+MergeSort 
+(356, '<-- Comparison')
+
+QuickSort 
+(4950, '<-- Comparison')
+
+-----------------------------
+
+1000 Sorted: 
+InsertionSort 
+(999, '<-- Comparison')
+
+MergeSort 
+(4937, '<-- Comparison')
+
+QuickSort RuntimeError: maximum recursion depth exceeded
+
+-----------------------------
+1000 Random: 
+
+InsertionSort 
+(245724, '<-- Comparison')
+
+MergeSort 
+(8742, '<-- Comparison')
+
+QuickSort 
+(10466, '<-- Comparison')
+
+-----------------------------
+1000 Reversed:
+
+InsertionSort 
+(499500, '<-- Comparison')
+
+MergeSort 
+(5044, '<-- Comparison')
+
+QuickSort 
+(494958, '<-- Comparison')
+
+-----------------------------
+
+
